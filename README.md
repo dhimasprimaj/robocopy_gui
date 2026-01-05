@@ -8,7 +8,6 @@ It allows users to perform **fast, reliable file copy, backup, and synchronizati
 ## ✨ Features
 
 - 🖥️ Easy-to-use GUI for Robocopy
-- 🌙 Dark Mode & ☀️ Light Mode support
 - ⚡ Cyberpunk / neon-inspired UI
 - 📊 Real-time progress display (optional)
 - 🧠 Automatically saved settings
