@@ -9,7 +9,6 @@ It allows users to perform **fast, reliable file copy, backup, and synchronizati
 
 - 🖥️ Easy-to-use GUI for Robocopy
 - ⚡ Cyberpunk / neon-inspired UI
-- 📊 Real-time progress display (optional)
 - 🧠 Automatically saved settings
   
 ---
@@ -26,7 +25,6 @@ It allows users to perform **fast, reliable file copy, backup, and synchronizati
 If **No Progress (`/NP`)** is enabled:
 
 - Robocopy suppresses progress output
-- Progress bar will remain at **0%** (this is expected behavior)
 
 To see real-time progress updates, disable `/NP`.
 
