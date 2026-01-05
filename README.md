@@ -12,9 +12,7 @@ It allows users to perform **fast, reliable file copy, backup, and synchronizati
 - ⚡ Cyberpunk / neon-inspired UI
 - 📊 Real-time progress display (optional)
 - 🧠 Automatically saved settings
-- 🔕 No CMD window popup during execution
-- 📦 Buildable into a standalone `.exe`
-
+  
 ---
 
 ## ⚙️ Settings & Options
@@ -42,13 +40,6 @@ To see real-time progress updates, disable `/NP`.
 - Synchronize directories
 - Replace Robocopy CLI with a GUI
 - Windows power users who want speed + usability
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute this software.
 
 ---
 
