@@ -1,2 +1,80 @@
-# robocopy_gui
-A cyberpunk-style Robocopy GUI built with Python and Tkinter for fast and powerful file operations on Windows.
+# 🚀 RobocopyGUI
+
+**RobocopyGUI** is a **cyberpunk-themed GUI application built with Python (Tkinter)** that simplifies the use of **Robocopy** on Windows.  
+It allows users to perform **fast, reliable file copy, backup, and synchronization** without using the command line.
+
+---
+
+## ✨ Features
+
+- 🖥️ Easy-to-use GUI for Robocopy
+- 🌙 Dark Mode & ☀️ Light Mode support
+- ⚡ Cyberpunk / neon-inspired UI
+- 📊 Real-time progress display (optional)
+- 🧠 Automatically saved settings
+- 🔕 No CMD window popup during execution
+- 📦 Buildable into a standalone `.exe`
+
+---
+
+## ⚙️ Settings & Options
+
+- 🌙 Dark / ☀️ Light Mode toggle  
+- 📊 Progress display (enable / disable Robocopy `/NP`)  
+- 🧠 Settings are saved automatically and restored on next launch  
+
+---
+
+## 📊 Progress Display Note
+
+If **No Progress (`/NP`)** is enabled:
+
+- Robocopy suppresses progress output
+- Progress bar will remain at **0%** (this is expected behavior)
+
+To see real-time progress updates, disable `/NP`.
+
+---
+
+## 🎯 Use Cases
+
+- Backup large folders
+- Synchronize directories
+- Replace Robocopy CLI with a GUI
+- Windows power users who want speed + usability
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software.
+
+---
+
+## 👨‍💻 Author
+
+**Dhimas Primajaya**  
+Cyberpunk-inspired tools for productivity 🚀
+
+---
+
+## ⭐ Support
+
+If you find this project useful:
+
+- ⭐ Star the repository  
+- 🐞 Report issues  
+- 💡 Suggest new features  
+
+---
+
+## 💖 Support the Developer
+
+If this project helps you and you want to support my work as a developer:
+
+☕💜 **Donate via Sociabuzz**  
+👉 https://sociabuzz.com/dhimaspj/support  
+
+Your support helps keep this project alive and evolving ⚡  
+Thank you! 🙏
