@@ -17,7 +17,6 @@ It allows users to perform **fast, reliable file copy, backup, and synchronizati
 
 ## ⚙️ Settings & Options
 
-- 🌙 Dark / ☀️ Light Mode toggle  
 - 📊 Progress display (enable / disable Robocopy `/NP`)  
 - 🧠 Settings are saved automatically and restored on next launch  
 
